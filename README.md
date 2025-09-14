@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arman29-dev&label=Profile%20views&color=0e75b6&style=flat" alt="arman29-dev" /> </p>
 
-- 🔭 I’m currently working on [POBucket.xyz (Web-App)](https://github.com/arman29-dev/POBucket.xyz) (Currently Private Repo)
+- 🔭 I’m currently working on [N.I.X The Super Agent](https://github.com/arman29-dev/N.I.X.git) (Currently Private Repo)
 - 🌱 I’m currently learning and practicing **WebDev, Flutter framework, DSA**
-- 👯 I’m looking for collaboraters for my E-com Websites [MyDrugs.tm](https://github.com/arman29-dev/MyDrugs.tm) & [POBucket.io](https://github.com/arman29-dev/POBucket.xyz)
-- 🤝 I’m looking for help with **MongoDB**
+- 👯 I’m looking for collaboraters for my E-com Websites [N.I.X](https://github.com/arman29-dev/N.I.X.git) & [POBucket.xyz](https://github.com/arman29-dev/POBucket.xyz)
+- 🤝 I’m looking for help with **MongoDB** and **Web Apps Hosting**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/arman29-dev?tab=repositories)
-- 💬 Ask me about **Python problems**
+- 💬 Ask me about **Python/API/Web App problems**
 - 📫 How to reach me **armandas.work@gmail.com** or **armandevilk282004@gmail.com**
 - ⚡ Fun fact **Cats are more adorable**
 
