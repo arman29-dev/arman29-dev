@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arman29-dev&label=Profile%20views&color=0e75b6&style=flat" alt="arman29-dev" /> </p>
 
-- 🔭 I’m currently working on [N.I.X The Super Agent](https://github.com/arman29-dev/N.I.X.git) (Currently Private Repo)
+- 🔭 I’m currently working on [AakaarIO](https://github.com/arman29-dev/AakaarIO) (Currently Private Repo)
 - 🌱 I’m currently learning and practicing **WebDev, Flutter framework, DSA**
-- 👯 I’m looking for collaboraters for my Up-coming projects [N.I.X](https://github.com/arman29-dev/N.I.X.git) & [IntelAICanvas](https://github.com/arman29-dev/AICanvas)
+- 👯 I’m looking for collaboraters for my Up-coming projects [N.I.X](https://github.com/arman29-dev/N.I.X.git) (private repo) & [AakaarIO](https://aakaario.com/apply)
 - 🤝 I’m looking for help with **MongoDB** and **Web Apps Hosting**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/arman29-dev?tab=repositories)
 - 💬 Ask me about **Python/API/Web App problems**
-- 📫 How to reach me **armandas.work@gmail.com** or **armandevilk282004@gmail.com**
+- 📫 How to reach me **work.armandas@gmail.com** or **armandevilk282004@gmail.com**
 - ⚡ Fun fact **Cats are more adorable**
 
 <br>
@@ -35,13 +35,10 @@
 <br>
 
 # 📊 Github Stats:
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arman29-dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="arman29-dev" ></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=arman29-dev&show_icons=true&locale=en&theme=gotham&icon_color='0fe8f1'&hide_border=false&hide=prs,contribs&layout=compact" alt="arman29-dev" /></p>
+<!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arman29-dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="arman29-dev" ></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=arman29-dev&show_icons=true&locale=en&theme=gotham&icon_color='0fe8f1'&hide_border=false&hide=prs,contribs&layout=compact" alt="arman29-dev" /></p> -->
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arman29-dev&theme=dark" alt="arman29-dev" /></p>
 <br>
 
 ## 👨🏻‍💻 Roadmap Stats:
 [![roadmap.sh](https://roadmap.sh/card/wide/65f3f9f5b98001268769c01e?variant=dark)](https://roadmap.sh)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arman29-dev&theme=nord&no-frame=false&no-bg=false&margin-w=4)
