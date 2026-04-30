@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arman29-dev&label=Profile%20views&color=0e75b6&style=flat" alt="arman29-dev" /> </p>
 
-- 🔭 I’m currently working on [AakaarIO](https://github.com/arman29-dev/AakaarIO) (Currently Private Repo)
+- 🔭 I’m currently working on [DB_GUI.tool](https://github.com/arman29-dev/DB-GUI.tool)
 - 🌱 I’m currently learning and practicing **WebDev, Flutter framework, DSA**
-- 👯 I’m looking for collaboraters for my Up-coming projects [N.I.X](https://github.com/arman29-dev/N.I.X.git) (private repo) & [AakaarIO](https://aakaario.com/apply)
+- 👯 I’m looking for collaboraters for my Up-coming projects [N.I.X](https://github.com/arman29-dev/N.I.X.git) (private repo)
 - 🤝 I’m looking for help with **MongoDB** and **Web Apps Hosting**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/arman29-dev?tab=repositories)
 - 💬 Ask me about **Python/API/Web App problems**
@@ -23,7 +23,7 @@
 
 ## 🔗 Connect with me:
 <p align="left">
-<a href="https://dev.to/@bunnyk28" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="@bunnyk28" height="30" width="40" /></a>
+<a href="https://dev.to/@bunnyk28" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="@bunnyk28" height="30" width="40" /></a><br>
 <a href="https://stackoverflow.com/users/20323776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20323776" height="30" width="40" /></a>
 <a href="https://kaggle.com/bunnynextgen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bunnynextgen" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@armandevilk28201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@armandevilk28201" height="30" width="40" /></a>
