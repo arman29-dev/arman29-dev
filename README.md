@@ -1,7 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HEADER SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ```
@@ -27,10 +23,6 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME SECTION                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🧠 `whoami`
 
 ```python
@@ -55,18 +47,14 @@ class ArmanDas:
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ACTIVE PROJECTS SECTION                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🚀 Active Projects
 
 <div align="center">
 
 | Project | Description | Status | Stack |
 |:-------:|:-----------:|:------:|:-----:|
-| [🛠️ DB_GUI.tool](https://github.com/arman29-dev/DB-GUI.tool) | A GUI-based database management interface | 🟢 Active | Python, SQLite, MySQL |
-| [🔒 N.I.X](https://github.com/arman29-dev/N.I.X.git) | Private upcoming project — collaborators welcome | 🔵 In Planning | TBD |
+| [🛠️ Plexus](https://github.com/arman29-dev/Plexus) | A localhost codebase visualizer | 🔵 In Progress | Python, react, three.js, tree-sitter |
+| [🔓 N.I.X](https://github.com/arman29-dev/N.I.X.git) | Cross-Platform ecosystem tool — collaborators welcome | 🔵 In Progress | TBD |
 
 </div>
 
