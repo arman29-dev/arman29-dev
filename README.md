@@ -33,11 +33,11 @@ class ArmanDas:
     location    = "India 🇮🇳"
     
     currently_working_on = {
-        "DB_GUI.tool": "A GUI-based database management tool",
-        "N.I.X"      : "Upcoming private project (collab welcome!)"
+        "Plexus": "A codebase visualizer with immersive 3D canvas and nodes",
+        "N.I.X"      : "A cross-platform ecosystem tool"
     }
     
-    currently_learning   = ["Machine Learning", "Flutter", "DSA", "MongoDB"]
+    currently_learning   = ["Machine Learning", "App development", "DSA", "MongoDB"]
     
     fun_fact             = "Cats are more adorable 🐱"
 
@@ -205,7 +205,7 @@ class ArmanDas:
 |:--------:|:----:|
 | 📧 Email (Work) | [work.armandas@gmail.com](mailto:work.armandas@gmail.com) |
 | 📧 Email (Alt) | [armandevilk282004@gmail.com](mailto:armandevilk282004@gmail.com) |
-| 💼 LinkedIn | [arman-das-359b57210](https://www.linkedin.com/in/work-arman-das) |
+| 💼 LinkedIn | [work-arman-das](https://www.linkedin.com/in/work-arman-das) |
 | 💬 WhatsApp | [Chat with me](https://wa.link/jennv4) |
 | 📸 Instagram | [@a.r.m.a.n_d.a.s](https://www.instagram.com/a.r.m.a.n_d.a.s?igsh=MWFkZmdoenU0M25yYg==) |
 | ✍️ Dev.to | [@bunnyk28](https://dev.to/@bunnyk28) |
@@ -216,7 +216,7 @@ class ArmanDas:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/arman-das-359b57210" target="_blank">
+<a href="https://www.linkedin.com/in/work-arman-das" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
 <a href="https://wa.link/jennv4" target="_blank">
