@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-                █████╗ ██████╗ ███╗   ███╗ █████╗ ███╗   ██╗    ██████╗  █████╗ ███████╗
-               ██╔══██╗██╔══██╗████╗ ████║██╔══██╗████╗  ██║    ██╔══██╗██╔══██╗██╔════╝
-               ███████║██████╔╝██╔████╔██║███████║██╔██╗ ██║    ██║  ██║███████║███████╗
-               ██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║██║╚██╗██║    ██║  ██║██╔══██║╚════██║
-               ██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║    ██████╔╝██║  ██║███████║
-               ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝
+                    █████╗ ██████╗ ███╗   ███╗ █████╗ ███╗   ██╗    ██████╗  █████╗ ███████╗
+                   ██╔══██╗██╔══██╗████╗ ████║██╔══██╗████╗  ██║    ██╔══██╗██╔══██╗██╔════╝
+                   ███████║██████╔╝██╔████╔██║███████║██╔██╗ ██║    ██║  ██║███████║███████╗
+                   ██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║██║╚██╗██║    ██║  ██║██╔══██║╚════██║
+                   ██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║    ██████╔╝██║  ██║███████║
+                   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝
 ```
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Python+Enthusiast;AI%2FML+Explorer+%7C+API+Architect;Building+Tools+that+Actually+Work+%F0%9F%94%A7;Open+Source+%7C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" /></a>
@@ -172,15 +172,15 @@ class ArmanDas:
 <div align="center">
 
 ```
-      ╔══════════════════════════════════════════════════════════╗
-      ║         🚀  LOOKING FOR COLLABORATORS                    ║
-      ║                                                          ║
-      ║  📌 Project: N.I.X  (Private — details on request)       ║
-      ║  🛠️ Need help with: MongoDB & Web App Hosting            ║
-      ║  💬 Ask me about: Python · API Design · Web App Issues   ║
-      ║                                                          ║
-      ║  📧  work.armandas@gmail.com                             ║
-      ╚══════════════════════════════════════════════════════════╝
+                            ╔══════════════════════════════════════════════════════════╗
+                            ║         🚀  LOOKING FOR COLLABORATORS                    ║
+                            ║                                                          ║
+                            ║  📌 Project: N.I.X  (Private — details on request)       ║
+                            ║  🛠️ Need help with: MongoDB & Web App Hosting            ║
+                            ║  💬 Ask me about: Python · API Design · Web App Issues   ║
+                            ║                                                          ║
+                            ║  📧  work.armandas@gmail.com                             ║
+                            ╚══════════════════════════════════════════════════════════╝
 ```
 
 [![Collab Badge](https://img.shields.io/badge/DM%20Me%20To-Collaborate-00d4ff?style=for-the-badge&logo=github&logoColor=white)](mailto:work.armandas@gmail.com)
