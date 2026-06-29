@@ -172,15 +172,15 @@ class ArmanDas:
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║         🚀  LOOKING FOR COLLABORATORS                    ║
-║                                                          ║
-║  📌 Project: N.I.X  (Private — details on request)       ║
-║  🛠️ Need help with: MongoDB & Web App Hosting            ║
-║  💬 Ask me about: Python · API Design · Web App Issues   ║
-║                                                          ║
-║  📧  work.armandas@gmail.com                             ║
-╚══════════════════════════════════════════════════════════╝
+      ╔══════════════════════════════════════════════════════════╗
+      ║         🚀  LOOKING FOR COLLABORATORS                    ║
+      ║                                                          ║
+      ║  📌 Project: N.I.X  (Private — details on request)       ║
+      ║  🛠️ Need help with: MongoDB & Web App Hosting            ║
+      ║  💬 Ask me about: Python · API Design · Web App Issues   ║
+      ║                                                          ║
+      ║  📧  work.armandas@gmail.com                             ║
+      ╚══════════════════════════════════════════════════════════╝
 ```
 
 [![Collab Badge](https://img.shields.io/badge/DM%20Me%20To-Collaborate-00d4ff?style=for-the-badge&logo=github&logoColor=white)](mailto:work.armandas@gmail.com)
